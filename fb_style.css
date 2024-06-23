@@ -1,0 +1,110 @@
+body{
+    display: flex;
+    justify-content:center ;
+    background-color: #F5F5F5;
+    align-items: center;
+    
+}
+
+.container h1{
+    color: #0866FF;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 45px;
+}
+
+.container-box .box{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+    background-color: whitesmoke;
+    color: #FFFFFF;
+    width: 455px;
+    height: 450px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+
+.container-box .box .tag-p{
+    color: black;
+    font-size: large;
+}
+
+.btn{
+    border: 1px solid;
+}
+
+.btn:hover{
+    color: #0866FF;
+}
+
+.box .btn{
+    width: 363px;
+    height: 52px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.btn1{
+    border: 1px;
+}
+
+
+.box .btn1{
+    width: 392px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #0866FF;
+}
+
+ .log-in{
+    margin-top: -34px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.box a{
+    text-decoration: none;
+    color: #0866FF;
+}
+.box a:hover{
+    text-decoration: underline;
+    font-size: large;
+}
+
+.line-fix{
+    width: 385px;
+    color: #DADDE1;
+}
+
+.box .new-account{
+    background-color: #36A420;
+    width: 200px;
+    height: 55px;
+    border-radius: 5px;
+    border: 1px ;
+}
+
+.account{
+    font-size: larger;
+    margin-top: -38px;
+    font-weight: bold;
+}
+
+.text-line {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.text-line a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.text-line a:hover{
+    text-decoration: underline;
+}
+
